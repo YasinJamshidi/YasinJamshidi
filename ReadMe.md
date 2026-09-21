@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Yasin, an AI engineer and cybersecurity specialist.
+Hello, I am Yasin, an AI engineer
 
 
 # 💻 Tech Stack:
