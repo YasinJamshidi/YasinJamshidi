@@ -11,4 +11,4 @@ Hello, I am Yasin, an AI engineer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## My Certificates
-[📄 View Cisco Certificate](Networking_Basics_certificate_yasinjamshidi105-gmail-com_32327d51-2371-41b2-ba44-a889bea1b2e9.pdf)
+[📄 View Networking Basics Certificate](Networking_Basics_certificate_yasinjamshidi105-gmail-com_32327d51-2371-41b2-ba44-a889bea1b2e9.pdf)
