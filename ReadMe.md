@@ -10,3 +10,5 @@ Hello, I am Yasin, an AI engineer
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YasinJamshidi&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My Certificates
+[📄 View Cisco Certificate](Networking_Basics_certificate_yasinjamshidi105-gmail-com_32327d51-2371-41b2-ba44-a889bea1b2e9.pdf)
